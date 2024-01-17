@@ -1,4 +1,4 @@
 # Sange
 # git clone https://github.com/muryxty/sange
 # cd sange
-# python AraiiModeSangeBerat.py
+# python Gacor.py
